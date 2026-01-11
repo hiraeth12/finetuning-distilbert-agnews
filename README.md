@@ -7,7 +7,7 @@
 | Name | NIM |
 |-------|-------------|
 | **Sahrul Ridho Firdaus** | 1103223009 |
-| **Rayhan Diff** |  |
+| **Rayhan Diff** | 1103220039 |
 
 
 ## 📋 Project Overview
